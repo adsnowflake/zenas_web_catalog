@@ -1,0 +1,2 @@
+# requirements for streamlit python env
+snowflake-connector-python
